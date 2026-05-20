@@ -3,6 +3,8 @@
 A functional e-commerce website built using **HTML**, **CSS**, **JavaScript** for the front-end, and **PHP** and **PostgreSQL** for the back-end, . For an University Project, the website is called "Gamer Planet", is designed to provide gamers with gaming gear such as monitors, PCs, laptops, keyboards, and more. The website features a user-friendly interface, product listings, shopping cart functionality, and a responsive design optimized for all devices.
 
 
+*Note: The website was designed using internal resources from the university server. These resources have since been automatically removed by the university, so the website is no longer accessible.*
+
 
 Photos: 
 ![Homepage](./homepage_imgs/1000019775.jpg)
